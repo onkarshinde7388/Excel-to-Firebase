@@ -1,12 +1,12 @@
-# Ignore Python compiled files
+
 *.pyc
 __pycache__/
 
-# Ignore virtual environment
+
 venv/
 
-# Ignore sensitive files
+
 firebase_creds.json
 
-# Optionally ignore the Excel file if you don't want to share it
+
 data.xlsx
